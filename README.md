@@ -1,8 +1,10 @@
 # Web_Quiz_Engine_REST-API
-Web_Quiz_Engine_REST-API
+Web_Quiz_Engine_REST-API ()
 Project from https://hyperskill.org/
 
 Spring boot;
+
+MVC
 
 Security(DB auth BCrypt);
 
